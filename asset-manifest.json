@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weather-Application/static/css/main.641c59bf.css",
+    "main.js": "/Weather-Application/static/js/main.6d6c9b9f.js",
+    "static/js/787.bfd02cd8.chunk.js": "/Weather-Application/static/js/787.bfd02cd8.chunk.js",
+    "static/media/world.png": "/Weather-Application/static/media/world.841f0bbc8bbd23a1e836.png",
+    "static/media/camerounmap.gif": "/Weather-Application/static/media/camerounmap.48f07affe591d0411eb4.gif",
+    "static/media/ethiopiamap.gif": "/Weather-Application/static/media/ethiopiamap.655dcc6a99b4aecba1b7.gif",
+    "static/media/kenyamap.gif": "/Weather-Application/static/media/kenyamap.ef52c057be3b0ecd9639.gif",
+    "static/media/rwanda07map.gif": "/Weather-Application/static/media/rwanda07map.c3ff1b51ebecb12df56e.gif",
+    "static/media/somaliamap.gif": "/Weather-Application/static/media/somaliamap.a649efc00f3cc8093656.gif",
+    "static/media/humidity1.png": "/Weather-Application/static/media/humidity1.2ece0eef4eb56c68ed36.png",
+    "static/media/windwarningsign.png": "/Weather-Application/static/media/windwarningsign.7c6704606dc2dbf97bc7.png",
+    "index.html": "/Weather-Application/index.html",
+    "main.641c59bf.css.map": "/Weather-Application/static/css/main.641c59bf.css.map",
+    "main.6d6c9b9f.js.map": "/Weather-Application/static/js/main.6d6c9b9f.js.map",
+    "787.bfd02cd8.chunk.js.map": "/Weather-Application/static/js/787.bfd02cd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.641c59bf.css",
+    "static/js/main.6d6c9b9f.js"
+  ]
+}
